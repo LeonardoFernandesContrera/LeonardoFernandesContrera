@@ -1,5 +1,7 @@
-### Hi there 👋
-
+## Olá, me chamo Leonardo! 👋
+### Atualmente estou fazendo estagio em Ribeirão Preto, Aprendendo sobre C#, SQL Server e JavaScript
+### Além disso, estou cursando Análise e Desenvolvimento de Sistemas na Fatec de Riberão Preto.
+### 
 <!--
 **LeonardoFernandesContrera/LeonardoFernandesContrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
