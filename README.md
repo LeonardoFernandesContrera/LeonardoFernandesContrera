@@ -1,7 +1,6 @@
-## Olá, me chamo Leonardo! 👋
-### Trabalho como desenvolvedor a mais de um ano, tenho plenos conhecimentos sobre C#, SQL e JavaScript
-### Além disso, estou cursando Análise e Desenvolvimento de Sistemas na Fatec de Riberão Preto.
-### Entre em contato comigo pelo meu Linkedin : https://www.linkedin.com/in/leonardo-contrera/
+## Hello, my name is Leonardo! 👋
+### I’m a Software Engineer with over 3 years of experience, with strong knowledge of C#, SQL, and JavaScript.
+### Get in touch with me on LinkedIn: https://www.linkedin.com/in/leonardo-contrera/
 <!--
 **LeonardoFernandesContrera/LeonardoFernandesContrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
